@@ -1,1 +1,4 @@
-# KKAKKOONGmachine
+# KKAKKOONGmachine 
+# 까꿍머신
+# 사용자가 까꿍했을때 peekaboo! 를 띄우는 머신입니다.
+# 한글로 까꿍! 을 하고싶었으나 폰트를 사용하는 과정에서 한글 폰트가 깨져서 나오는 바람에 바꿔버렸습니다.
